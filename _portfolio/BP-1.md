@@ -1,5 +1,4 @@
 ## Prompt
-> Write a short post about something you did this week: what happened, what you learned, and what you'd do next time.
 My name is Rasaq Quadri, and I am currently a Ph.D. student in Economics at Northern Illinois University (NIU). My primary research interest is Financial Economics, particularly understanding how financial markets, institutions, and economic policies influence economic growth and development.
 
 ## What I did
