@@ -7,7 +7,7 @@ url: "https://RasaqQuadri.github.io"
 baseurl: "/Rasaq_Quadri_Resume"
 repository: "RasaqQuadri/Rasaq_Quadri_Resume"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/WIN_20260811_18_50_08_Pro.jpg
 
 include:
   - _pages
