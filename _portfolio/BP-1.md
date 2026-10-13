@@ -1,26 +1,34 @@
 ## Prompt
 > Write a short post about something you did this week: what happened, what you learned, and what you'd do next time.
-
----
+My name is Rasaq Quadri, and I am currently a Ph.D. student in Economics at Northern Illinois University (NIU). My primary research interest is Financial Economics, particularly understanding how financial markets, institutions, and economic policies influence economic growth and development.
 
 ## What I did
-
-This week I led the Huskies out of the tunnel at **Huskie Stadium** for the home opener. It was my first game of the season, so I spent the week rehearsing a new entrance with the NIU cheer team.
+This week, I learned how to create a professional Curriculum Vitae (CV) and build a personal academic website using GitHub. It was an interesting experience because I discovered how technology can help me present my academic background, research interests, educational qualifications, and professional achievements to a wider audience.
 
 ## What I learned
 
-- **Practice in costume.** Moves that are easy in a T-shirt are much harder with a giant husky head on.
-- **Plan for the weather.** It was 85°F on the field, so water breaks between quarters were a must.
-- **The crowd follows your energy.** When I got the student section going, the rest of the stadium joined in.
+-During this experience, I learned several important things:
 
-> "Spirit is contagious. Someone just has to start it." — a wise cheer coach
+Creating a professional CV: I learned how to organize my educational background, research interests, technical skills, and academic achievements in a clear and professional format.
 
+Using GitHub: I learned how GitHub can be used to create, manage, and publish a personal academic website.
+
+Building an online academic presence: I realized that having a personal website is important for graduate students because it provides an opportunity to showcase research interests, projects, and academic accomplishments.
+
+Developing technical skills: I gained a better understanding of Markdown formatting, including headings, bold text, lists, links, and images.
+
+"Learning is a continuous process, and every new skill creates an opportunity for personal and professional growth."
 ## What I'd do next time
 
-1. Rehearse on the actual field, not just in the gym
-2. Coordinate the T-shirt cannon timing with the band
-3. Bring a spare pair of gloves
+In the future, I would like to:
 
+Improve the design and organization of my academic website.
+
+Update my CV regularly as I progress through my Ph.D. program.
+
+Add my research projects and academic work, particularly those related to Financial Economics.
+
+Explore more GitHub features to improve my website and make it more professional
 Here's a photo from campus:
 
 <img src="{{ '/assets/images/victor-e-pride.jpg' | relative_url }}" width="60%" alt="Victor E. Huskie in front of the NIU letters">
